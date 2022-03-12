@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.aula04.banco.banco.service.OperacoesServiceTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-03-09T22:12:57" hostname="SAMUEL-ALVES" time="0.074">
-  <properties/>
-  <testcase name="depositaEmContaNaoEncontrada()" classname="com.aula04.banco.banco.service.OperacoesServiceTest" time="0.057"/>
-  <testcase name="depositaEmContaValida()" classname="com.aula04.banco.banco.service.OperacoesServiceTest" time="0.015"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
